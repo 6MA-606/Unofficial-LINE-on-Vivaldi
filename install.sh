@@ -4,7 +4,7 @@
 EXT_ID="ophjlpahpchlmihnnnihgmmeilfjmjjc"
 VIVALDI_DEB="vivaldi-stable_amd64.deb"
 EXT_PATH="$HOME/.config/vivaldi/Default/Extensions/$EXT_ID"
-ICON_URL="https://raw.githubusercontent.com/6MA-606/LINE-on-Vivaldi/main/assets/line-vivaldi.png"
+ICON_URL="https://raw.githubusercontent.com/6MA-606/Unofficial-LINE-on-Vivaldi/main/assets/line-vivaldi.png"
 ICON_PATH="/usr/share/icons/hicolor/256x256/apps/line-vivaldi.png"
 DESKTOP_FILE="/usr/share/applications/line-vivaldi.desktop"
 LAUNCH_CMD="vivaldi-stable --app=\"chrome-extension://$EXT_ID/index.html\" --window-size=800,600 --window-position=100,100"
