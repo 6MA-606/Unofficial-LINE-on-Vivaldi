@@ -47,7 +47,7 @@ This will:
 To remove everything:
 
 ```bash
-curl -sSL -o uninstall.sh https://raw.githubusercontent.com/6MA-606/LINE-on-Vivaldi/refs/heads/main/uninstall.sh && \
+curl -sSL -o uninstall.sh https://raw.githubusercontent.com/6MA-606/Unofficial-LINE-on-Vivaldi/refs/heads/main/uninstall.sh && \
 chmod +x uninstall.sh && \
 ./uninstall.sh
 ```
